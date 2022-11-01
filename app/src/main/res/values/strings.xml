@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tugas2_RecycleView</string>
+    <string-array name="Lagu">
+        <item>Seandainya</item>
+        <item>Dont Look Back in Anger</item>
+        <item>Eight</item>
+        <item>Stuck</item>
+    </string-array>
+    <string-array name="Bintang">
+        <item>4.8</item>
+        <item>4.8</item>
+        <item>4.8</item>
+        <item>4.8</item>
+    </string-array>
+    <string-array name="Deskripsi">
+        <item>Lagu yang dibawakan oleh Vierratale</item>
+        <item>Lagu yang dibawakan oleh Oasis</item>
+        <item>Lagu yang dibawakan oleh IU</item>
+        <item>Lagu yang dibawakan oleh Justin dan Ariana</item>
+    </string-array>
+</resources>
